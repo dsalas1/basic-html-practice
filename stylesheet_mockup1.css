@@ -1,0 +1,17 @@
+.Header {
+    font-size: 30px;
+}
+
+.contacts {
+    font-size: 20px;
+    text-indent: 10mm;
+}
+
+.person {
+    font-size: 17px;
+}
+
+p {
+    font-style: verdana;
+    margin: 0;
+}

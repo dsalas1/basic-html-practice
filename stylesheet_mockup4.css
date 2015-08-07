@@ -1,0 +1,15 @@
+form {
+    margin-left: 20%;
+}
+
+#Name, #Email, #Phone {
+    border: 2px solid black;
+}
+
+.submit {
+    margin:10px;
+    background-color: white;
+    border: 5px black;
+    border-bottom-style: outset;
+    border-right-style: outset;
+}

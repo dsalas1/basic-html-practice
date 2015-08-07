@@ -1,0 +1,18 @@
+.left {
+    float: left;
+    margin-left: 100px;
+}
+
+.right {
+    float: left;
+    margin-left:100px;
+}
+
+footer {
+    clear: both;
+    margin-top: 250px;
+}
+
+table {
+    border: 2px solid black;
+}
